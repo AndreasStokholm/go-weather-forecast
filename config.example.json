@@ -1,0 +1,16 @@
+{
+  "darksky": {
+    "key": "",
+    "coordinates": "",
+    "query_string": "?exclude=currently,hourly,minutely,flags&units=si"
+  },
+
+  "mqtt": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "client_id": "go-weather-forecast",
+    "topic": "weather",
+    "status": "weather/status"
+  }
+}
